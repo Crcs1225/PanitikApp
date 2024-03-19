@@ -1,0 +1,425 @@
+[
+  {
+    "work_id": 1,
+    "questions": [
+      {
+        "question": "Ano ang pangalan ng mitikong ibon sa 'Ibong Adarna'?",
+        "choices": ["Ibong Adarna", "Haribon", "Maya", "Tikbalang"],
+        "answer": "Ibong Adarna"
+      },
+      {
+        "question": "Sino ang may akda ng 'Ibong Adarna'?",
+        "choices": ["Jose Rizal", "Francisco Balagtas", "Pedro Paterno", "Anonymous"],
+        "answer": "Anonymous"
+      },
+      {
+        "question": "Anong kulay ang unang pakpak ng Ibong Adarna?",
+        "choices": ["Pula", "Berde", "Asul", "Puti"],
+        "answer": "Pula"
+      },
+      {
+        "question": "Ano ang pamagat ng kaharian na pinamumunuan ni Haring Fernando sa 'Ibong Adarna'?",
+        "choices": ["Kaharian ng Berbanya", "Kaharian ng Lireo", "Kaharian ng Amihan", "Kaharian ng Enchancia"],
+        "answer": "Kaharian ng Berbanya"
+      },
+      {
+        "question": "Sino ang pinakabunso na prinsipe sa 'Ibong Adarna'?",
+        "choices": ["Prinsipe Alfonso", "Prinsipe Pedro", "Prinsipe Diego", "Prinsipe Juan"],
+        "answer": "Prinsipe Juan"
+      },
+      {
+        "question": "Ano ang kapangyarihan ng awit ng Ibong Adarna ayon sa alamat?",
+        "choices": ["Pagpapagaling", "Paghahaginit", "Pagdadala ng Swerte", "Pang-aakit ng Tulog"],
+        "answer": "Pagpapagaling"
+      },
+      {
+        "question": "Saan natagpuan ni Don Juan ang Ibong Adarna?",
+        "choices": ["Bundok Tabor", "Bundok Mayon", "Bundok Arayat", "Bundok Makiling"],
+        "answer": "Bundok Tabor"
+      },
+      {
+        "question": "Ano ang ginamit ni Don Juan upang hulihin ang Ibong Adarna?",
+        "choices": ["Gintong Lambat", "Gintong Kulungan", "Pilak na Pana", "Gintong Mansanas"],
+        "answer": "Gintong Kulungan"
+      },
+      {
+        "question": "Sino ang pinakamaganda sa mga anak ni Haring Fernando?",
+        "choices": ["Maria", "Leonora", "Donya Juana", "Donya Leonor"],
+        "answer": "Donya Leonor"
+      },
+      {
+        "question": "Ano ang ginawa ni Don Pedro upang taksilin ang kanyang mga kapatid?",
+        "choices": ["Pinatay Sila", "Iniwan Sila", "Nanakaw ang Kanilang Pera", "Ginawang Bato"],
+        "answer": "Pinatay Sila"
+      },
+      {
+        "question": "Ano ang ginawa ni Don Diego upang taksilin ang kanyang mga kapatid?",
+        "choices": ["Nagnakaw ng Bigay", "Nanakaw ng Kanilang Ginto", "Kumuha ng Lahat ng Karangalan", "Nagsalita Laban sa Kanila"],
+        "answer": "Kumuha ng Lahat ng Karangalan"
+      },
+      {
+        "question": "Ano ang ginawa ni Don Juan upang taksilin ang kanyang mga kapatid?",
+        "choices": ["Iniwan Sila", "Nanakaw ang Kanilang mga Kabayo", "Binalita ang Kanilang Mga Sekreto", "Pumatay Sa Kanila Habang Sila'y Natutulog"],
+        "answer": "Iniwan Sila"
+      },
+      {
+        "question": "Sino ang tumulong kay Don Juan sa pagpapagaling kay Haring Fernando sa kanyang sakit?",
+        "choices": ["Ermitanyo", "Donya Maria", "Mangkukulam", "Salamangkero"],
+        "answer": "Ermitanyo"
+      },
+      {
+        "question": "Ano ang lihim sa awit ng Ibong Adarna?",
+        "choices": ["Pitong Tono", "Pitong Kulay", "Pitong Saknong", "Pitong Salita"],
+        "answer": "Pitong Saknong"
+      },
+      {
+        "question": "Ano ang ginawa ni Don Juan upang mapapakanta ang Ibong Adarna?",
+        "choices": ["Sumayaw", "Magpatugtog ng Musika", "Magdasal", "Magtuktok sa mga Pakpak Nito"],
+        "answer": "Magtuktok sa mga Pakpak Nito"
+      },
+      {
+        "question": "Ano ang nangyari sa mga kapatid ni Don Juan nang kumanta ang Ibong Adarna?",
+        "choices": ["Natulog", "Naging Bato", "Sumayaw Nang Hindi Makontrol", "Nagkasakit"],
+        "answer": "Natulog"
+      },
+      {
+        "question": "Ilang beses sinubukan ni Don Juan na hulihin ang Ibong Adarna?",
+        "choices": ["Tatlo", "Lima", "Pito", "Siyam"],
+        "answer": "Tatlo"
+      },
+      {
+        "question": "Ano ang pangalan ng kabayo ni Don Juan?",
+        "choices": ["Balong", "Alitaptap", "Sibulan", "Bituin"],
+        "answer": "Balong"
+      },
+      {
+        "question": "Sino ang tumulong kay Don Juan nang siya'y magkasakit pagkatapos ng kanyang misyon?",
+        "choices": ["Ermitanyo", "Ibong Adarna", "Donya Maria", "Mangkukulam"],
+        "answer": "Donya Maria"
+      },
+      {
+        "question": "Ano ang ginawa ni Don Juan matapos ibalik ang Ibong Adarna sa kanyang ama?",
+        "choices": ["Naging Hari", "Naging Pari", "Naging Magsasaka", "Iniwan ang Kaharian"],
+        "answer": "Naging Hari"
+      }
+    ]
+  },
+  
+  {
+    "work_id": 2,
+    "questions": [
+      {
+        "question": "Sino ang pangunahing karakter sa 'Florante at Laura'?",
+        "choices": ["Florante", "Laura", "Aladin", "Flerida"],
+        "answer": "Florante"
+      },
+      {
+        "question": "Ano ang pangalan ng antagonist sa 'Florante at Laura'?",
+        "choices": ["Adolfo", "Aladin", "Flerida", "Duke Briseo"],
+        "answer": "Adolfo"
+      },
+      {
+        "question": "Sino ang sumulat ng 'Florante at Laura'?",
+        "choices": ["Jose Rizal", "Francisco Balagtas", "Pedro Paterno", "Anonymous"],
+        "answer": "Francisco Balagtas"
+      },
+      {
+        "question": "Ano ang pangalan ng ama ni Florante?",
+        "choices": ["Duke Briseo", "Haring Linceo", "Haring Linio", "Haring Linceus"],
+        "answer": "Duke Briseo"
+      },
+      {
+        "question": "Sino ang pag-ibig na interes ni Florante?",
+        "choices": ["Laura", "Flerida", "Aladin", "Adolfo"],
+        "answer": "Laura"
+      },
+      {
+        "question": "Ano ang pamagat ng kaharian na pinamumunuan ni Haring Linceo?",
+        "choices": ["Kaharian ng Albania", "Kaharian ng Berbanya", "Kaharian ng Lireo", "Kaharian ng Amihan"],
+        "answer": "Kaharian ng Albania"
+      },
+      {
+        "question": "Ano ang pangalan ng gubat kung saan ipinatapon si Florante?",
+        "choices": ["Crocus", "Dioskouroi", "Crotona", "Bulgaria"],
+        "answer": "Crocus"
+      },
+      {
+        "question": "Sino ang nagligtas kay Florante mula sa leon?",
+        "choices": ["Aladin", "Adolfo", "Menandro", "Antenor"],
+        "answer": "Aladin"
+      },
+      {
+        "question": "Ano ang propesyon ng kaibigan ni Florante na si Menandro?",
+        "choices": ["Sundalo", "Mang-aawit", "Negosyante", "Iskolar"],
+        "answer": "Sundalo"
+      },
+      {
+        "question": "Ano ang kapalaran ni Adolfo sa dulo ng kuwento?",
+        "choices": ["Namamatay sa Labanan", "Pinarusahan ng Hari", "Ipinatapon ng Hari", "Nagbabalik-loob at humihingi ng tawad"],
+        "answer": "Namamatay sa Labanan"
+      },
+      {
+        "question": "Sino ang ama ni Laura?",
+        "choices": ["Haring Linceo", "Duke Briseo", "Haring Linio", "Haring Linceus"],
+        "answer": "Haring Linceo"
+      },
+      {
+        "question": "Ano ang ginawa ni Florante matapos bumalik sa Albania?",
+        "choices": ["Naging Hari", "Iniwan ang Kaharian", "Naging Pari", "Naghiganti"],
+        "answer": "Naging Hari"
+      },
+      {
+        "question": "Ano ang pamagat ng kaharian na pinamumunuan ni Haring Linio?",
+        "choices": ["Kaharian ng Macedonia", "Kaharian ng Byzantium", "Kaharian ng Thessaly", "Kaharian ng England"],
+        "answer": "Kaharian ng Thessaly"
+      },
+      {
+        "question": "Sino ang hari ng Persia sa 'Florante at Laura'?",
+        "choices": ["Haring Linceo", "Haring Linio", "Haring Linceus", "Haring Menandro"],
+        "answer": "Haring Linceus"
+      },
+      {
+        "question": "Ano ang ginawa ni Adolfo upang taksilin si Florante?",
+        "choices": ["Pinalabas na Nagkasala Siya", "Binalaan Siya", "Kinidnap si Laura", "Nagnakaw ng Kaharian"],
+        "answer": "Pinalabas na Nagkasala Siya"
+      },
+      {
+        "question": "Sino ang kasama ni Florante sa kanyang pagtatapon?",
+        "choices": ["Aladin", "Adolfo", "Antenor", "Menandro"],
+        "answer": "Aladin"
+      },
+      {
+        "question": "Ano ang pamagat ng kaharian na pinamumunuan ni Haring Menandro?",
+        "choices": ["Kaharian ng Persia", "Kaharian ng Macedon", "Kaharian ng Carthage", "Kaharian ng Thrace"],
+        "answer": "Kaharian ng Thrace"
+      },
+      {
+        "question": "Ano ang nais ni Adolfo mula kay Laura?",
+        "choices": ["Ang Kamay Niya sa Kasal", "Ang Kanyang Kaharian", "Ang Kanyang Kayamanan", "Ang Kanyang Tapat na Pagmamahal"],
+        "answer": "Ang Kamay Niya sa Kasal"
+      },
+      {
+        "question": "Sino ang tunay na ama ni Flerida?",
+        "choices": ["Adolfo", "Florante", "Menandro", "Aladin"],
+        "answer": "Adolfo"
+      },
+      {
+        "question": "Ano ang propesyon ng ama ni Adolfo, si Duke Briseo?",
+        "choices": ["Heneral", "Mang-aawit", "Negosyante", "Iskolar"],
+        "answer": "Heneral"
+      }
+    ]
+  },
+  
+  {
+    "work_id": 3,
+    "questions": [
+      {
+        "question": "Sino ang sumulat ng 'El Filibusterismo'?",
+        "choices": ["Jose Rizal", "Francisco Balagtas", "Pedro Paterno", "Anonymous"],
+        "answer": "Jose Rizal"
+      },
+      {
+        "question": "Ano ang kasunod na aklat ng 'Noli Me Tangere'?",
+        "choices": ["El Filibusterismo", "Florante at Laura", "Ibong Adarna", "El Fili"],
+        "answer": "El Filibusterismo"
+      },
+      {
+        "question": "Sino ang pangunahing tauhan sa 'El Filibusterismo'?",
+        "choices": ["Juan Crisostomo Ibarra", "Isagani", "Padre Salvi", "Elias"],
+        "answer": "Juan Crisostomo Ibarra"
+      },
+      {
+        "question": "Ano ang pangalan ng anti-hero sa 'El Filibusterismo'?",
+        "choices": ["Simoun", "Basilio", "Tasyo", "Kabesang Tales"],
+        "answer": "Simoun"
+      },
+      {
+        "question": "Ano ang pen name ni Simoun sa 'El Filibusterismo'?",
+        "choices": ["Crisostomo Ibarra", "Ibarra Jr.", "Crispin", "Don Custodio"],
+        "answer": "Crisostomo Ibarra"
+      },
+      {
+        "question": "Sino ang anak na babae ni Kapitan Tiago sa 'El Filibusterismo'?",
+        "choices": ["Paulita Gomez", "Maria Clara", "Consolacion", "Julia"],
+        "answer": "Paulita Gomez"
+      },
+      {
+        "question": "Ano ang propesyon ni Padre Florentino?",
+        "choices": ["Paring Pari", "Doktor", "Abogado", "Guro"],
+        "answer": "Paring Pari"
+      },
+      {
+        "question": "Ano ang hanapbuhay ng karakter na si Kabesang Tales?",
+        "choices": ["Magsasaka", "Mangingisda", "Panday", "Guro"],
+        "answer": "Magsasaka"
+      },
+      {
+        "question": "Ano ang tunay na pangalan ni Basilio?",
+        "choices": ["Sisa", "Tano", "Crispin", "Isagani"],
+        "answer": "Tano"
+      },
+      {
+        "question": "Sino ang guro ni Isagani?",
+        "choices": ["Padre Florentino", "Elias", "Tasyo", "Simoun"],
+        "answer": "Padre Florentino"
+      },
+      {
+        "question": "Ano ang pangalan ng rebolusyonaryong samahan sa 'El Filibusterismo'?",
+        "choices": ["La Liga Filipina", "Kataastaasang Kagalanggalangang Katipunan ng mga Anak ng Bayan", "Katipunan", "Cuerpo de Vigilancia"],
+        "answer": "Kataastaasang Kagalanggalangang Katipunan ng mga Anak ng Bayan"
+      },
+      {
+        "question": "Sino ang nagplano ng pagsisimula ng rebolusyon sa 'El Filibusterismo'?",
+        "choices": ["Simoun", "Padre Salvi", "Don Custodio", "Don Rafael"],
+        "answer": "Simoun"
+      },
+      {
+        "question": "Ano ang hanapbuhay ng karakter na si Juli?",
+        "choices": ["Mang-aawit", "Mananayaw", "Nagtitinda sa Kalsada", "Babaeng Pananggalang"],
+        "answer": "Babaeng Pananggalang"
+      },
+      {
+        "question": "Ano ang pangalan ng paaralan na itinatag ni Basilio sa 'El Filibusterismo'?",
+        "choices": ["San Diego Academy", "Colegio de San Juan de Letran", "Escuela Pia", "Paaralan ng Sining at Kalakalan"],
+        "answer": "San Diego Academy"
+      },
+      {
+        "question": "Ano ang kapalaran ni Simoun sa dulo ng 'El Filibusterismo'?",
+        "choices": ["Namamatay sa Pagpapatiwakal", "Nakakatakas Patungo sa Ibang Bansa", "Inaaresto at Pinarusahan", "Nagpapatawad sa Kanyang mga Kaaway"],
+        "answer": "Namamatay sa Pagpapatiwakal"
+      },
+      {
+        "question": "Sino ang karakter na kilala sa kanyang hula tungkol sa paparating na rebolusyon?",
+        "choices": ["Tasyo", "Simoun", "Don Custodio", "Padre Florentino"],
+        "answer": "Tasyo"
+      },
+      {
+        "question": "Ano ang kapalaran ni Juli sa dulo ng 'El Filibusterismo'?",
+        "choices": ["Pinatay ni Simoun", "Inaresto at Binaril", "Namamatay sa Sakit", "Nagbabagong-loob at Sumapi sa Rebolusyon"],
+        "answer": "Pinatay ni Simoun"
+      },
+      {
+        "question": "Sino ang karakter na kilala sa kanyang nobelang 'Pag-ibig at Paghihiganti'?",
+        "choices": ["Padre Florentino", "Tasyo", "Simoun", "Padre Salvi"],
+        "answer": "Tasyo"
+      },
+      {
+        "question": "Ano ang kapalaran ni Juanito Pelaez sa 'El Filibusterismo'?",
+        "choices": ["Sumapi sa Rebolusyon", "Namatay sa Labanan", "Inaresto at Binaril", "Lumisan sa Bansa"],
+        "answer": "Sumapi sa Rebolusyon"
+      },
+      {
+        "question": "Sino ang nagligtas kay Basilio mula sa pagkakakulong sa 'El Filibusterismo'?",
+        "choices": ["Padre Florentino", "Simoun", "Don Rafael", "Don Custodio"],
+        "answer": "Padre Florentino"
+      }
+    ]
+  },
+  {
+    "work_id": 4,
+    "questions": [
+      {
+        "question": "Sino ang sumulat ng 'Noli Me Tangere'?",
+        "choices": ["Jose Rizal", "Francisco Balagtas", "Pedro Paterno", "Anonymous"],
+        "answer": "Jose Rizal"
+      },
+      {
+        "question": "Ano ang pamagat ng aklat na nagsimula ng himagsikan sa Pilipinas?",
+        "choices": ["Noli Me Tangere", "El Filibusterismo", "Ibong Adarna", "Florante at Laura"],
+        "answer": "Noli Me Tangere"
+      },
+      {
+        "question": "Sino ang pangunahing tauhan sa 'Noli Me Tangere'?",
+        "choices": ["Juan Crisostomo Ibarra", "Isagani", "Padre Salvi", "Elias"],
+        "answer": "Juan Crisostomo Ibarra"
+      },
+      {
+        "question": "Ano ang pangalan ng karakter na kumakatawan sa elitistang uri sa 'Noli Me Tangere'?",
+        "choices": ["Don Rafael Ibarra", "Padre Damaso", "Maria Clara", "Kapitan Tiago"],
+        "answer": "Padre Damaso"
+      },
+      {
+        "question": "Ano ang trabaho ng karakter na si Elias sa 'Noli Me Tangere'?",
+        "choices": ["Mangingisda", "Magsasaka", "Rebolusyonaryo", "Guro"],
+        "answer": "Mangingisda"
+      },
+      {
+        "question": "Sino ang minamahal ni Maria Clara sa 'Noli Me Tangere'?",
+        "choices": ["Ibarra", "Elias", "Crisostomo", "Damaso"],
+        "answer": "Ibarra"
+      },
+      {
+        "question": "Ano ang palayaw ni Basilio sa 'Noli Me Tangere'?",
+        "choices": ["Tano", "Crispin", "Sisa", "Elias"],
+        "answer": "Tano"
+      },
+      {
+        "question": "Ano ang propesyon ni Padre Damaso sa 'Noli Me Tangere'?",
+        "choices": ["Pari", "Doktor", "Abogado", "Politiko"],
+        "answer": "Pari"
+      },
+      {
+        "question": "Sino ang ama ni Maria Clara sa 'Noli Me Tangere'?",
+        "choices": ["Ibarra", "Elias", "Crisostomo", "Damaso"],
+        "answer": "Damaso"
+      },
+      {
+        "question": "Ano ang kapalaran ni Elias sa dulo ng 'Noli Me Tangere'?",
+        "choices": ["Namamatay sa Lawa", "Nakatakas Papuntang Ibang Bansa", "Inaaresto at Binaril", "Namatay sa Duelo"],
+        "answer": "Namamatay sa Lawa"
+      },
+      {
+        "question": "Ano ang tunay na pangalan ng mga anak ni Sisa sa 'Noli Me Tangere'?",
+        "choices": ["Tano At Crispin", "Juan At Pedro", "Basilio At Crispin", "Juan At Simoun"],
+        "answer": "Basilio At Crispin"
+      },
+      {
+        "question": "Sino ang karakter na kilala sa kanyang mga mapanlikhaing pananaw at kritisismo sa mga prayle?",
+        "choices": ["Tasyo", "Ibarra", "Elias", "Crispin"],
+        "answer": "Tasyo"
+      },
+      {
+        "question": "Ano ang pangalang-tusang ginamit ni Juan Crisostomo Ibarra sa 'Noli Me Tangere'?",
+        "choices": ["Ibarra Jr.", "Crisostomo Ibarra", "Crispin", "Don Custodio"],
+        "answer": "Crisostomo Ibarra"
+      },
+      {
+        "question": "Ano ang hanapbuhay ni Pilosopo Tasyo?",
+        "choices": ["Guro", "Pilosopo", "Doktor", "Abogado"],
+        "answer": "Pilosopo"
+      },
+      {
+        "question": "Ano ang kapalaran ni Juan Crisostomo Ibarra sa dulo ng 'Noli Me Tangere'?",
+        "choices": ["Namamatay sa Pagpapatiwakal", "Nakatakas Papuntang Ibang Bansa", "Inaaresto at Pinarusahan", "Nagpapatawad sa Kanyang mga Kaaway"],
+        "answer": "Inaaresto at Pinarusahan"
+      },
+      {
+        "question": "Ano ang pangalan ng pagtitipon sa lipunan sa 'Noli Me Tangere' kung saan tinalakay ang mga isyu sa lipunan?",
+        "choices": ["Cafe Havanna", "Cafe Restaurant", "Cafe Social", "Cafe Madrid"],
+        "answer": "Cafe Social"
+      },
+      {
+        "question": "Sino ang kaibigan ni Elias at tumulong kay Ibarra na makatakas?",
+        "choices": ["Tasyo", "Crisostomo", "Basilio", "Sandoval"],
+        "answer": "Sandoval"
+      },
+      {
+        "question": "Ano ang kapalaran ni Maria Clara sa dulo ng 'Noli Me Tangere'?",
+        "choices": ["Namamatay Dahil sa Sakit", "Nakatakas Papuntang Ibang Bansa", "Namamatay sa Pagpapatiwakal", "Namamatay sa Isang Kumbento"],
+        "answer": "Namamatay sa Isang Kumbento"
+      },
+      {
+        "question": "Ano ang pangalan ng bayan kung saan naganap ang karamihan ng mga pangyayari sa 'Noli Me Tangere'?",
+        "choices": ["San Diego", "San Felipe", "San Juan", "San Francisco"],
+        "answer": "San Diego"
+      },
+      {
+        "question": "Ano ang kapalaran ni Padre Salvi sa dulo ng 'Noli Me Tangere'?",
+        "choices": ["Nakatakas Papuntang Ibang Bansa", "Namamatay sa Kamay ni Elias", "Inaaresto at Pinarusahan", "Ikinukulong at Ini-exkomunikado ng Simbahan"],
+        "answer": "Inaaresto at Pinarusahan"
+      }
+    ]
+  }
+  
+]
